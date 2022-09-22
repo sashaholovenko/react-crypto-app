@@ -1,0 +1,1 @@
+This app was created using React and Redux Toolkit. I've used different APIs powered by https://rapidapi.com
